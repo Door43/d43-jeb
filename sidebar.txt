@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jeb:home|Door43 (jeb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jeb|d43-jeb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jeb/archive/master.zip|d43-jeb.zip]]
+
+**Recent Changes**
+{{changes>ns = jeb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jeb|Ethnologue data]]
+
